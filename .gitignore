@@ -43,3 +43,6 @@ htmlcov/
 .DS_Store
 Thumbs.db
 desktop.ini
+
+# Local notebooks
+1-rag_evaluation.ipynb
